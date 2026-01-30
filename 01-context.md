@@ -2,9 +2,13 @@ We have a shared basic and functional prototype. The prototype is just a simple 
 What I already have is a Git repository (both locally and on GitHub), connection and publication of the page via Netlify, and the overall plan.
 I want to expand the prototype into an application that will emulate a small client zone. I want the application to be written in JavaScript, use my existing infrastructure with Netlify, and have the following parameters.
 
+<<<<<<< HEAD
 **URL prototypu (náš projekt):** https://cerulean-treacle-4c86f3.netlify.app/
 
 **Inspirace pro styling a barvy:** https://lnd-poj.netlify.app/ (JerryPoj by Lundegaard – pouze jako vizuální vzor, ne rozšíření)
+=======
+The URL of the prototype is: https://lnd-poj.netlify.app/
+>>>>>>> 36c118000a766df5b2c8baae44cb7042da30c3b2
 
 My feature requirements are:
 
@@ -13,6 +17,7 @@ My feature requirements are:
 - Use of camera for file upload
 - Option to view contract in lightweight KZ
 - Styling and colors of Lunde-poj prototype
+<<<<<<< HEAD
 - cestovní pojištění (https://www.generaliceska.cz/cestovni-pojisteni-online-sjednani) (B2C reference)
 
 ---
@@ -63,3 +68,6 @@ Prototyp implementován:
 - Dashboard, zobrazení smlouvy (lightweight KZ)
 - CalculatorWidget, FileUpload (kamera/soubor), IPID
 - Mantine + Tailwind, zelený design (JerryPoj)
+=======
+- <---add your feature here--->
+>>>>>>> 36c118000a766df5b2c8baae44cb7042da30c3b2
