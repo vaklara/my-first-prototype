@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+:root {
+  /* Design tokens – inspirace JerryPoj */
+}
+
+body {
+  font-family: system-ui, sans-serif;
+}
